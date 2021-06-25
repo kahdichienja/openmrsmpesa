@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "dasdsfwe",
+      "billing_service": "Ambulence",
+      "billing_queue": [
+        {
+          "patient_uuid": "M10391GAK",
+          "patient_name": "Mkenya Mercy",
+          "user_uri": "https://json.link/",
+          "gender": "Female",
+          "total_bill": "2",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial Lab Test"
+            },
+            {
+              "amount": "1",
+              "billing_details": "X-ray"
+            }
+          ]
+        },
+        {
+          "patient_uuid": "M79Y4",
+          "patient_name": "BRAVILE NYALAJA TESHIA",
+          "user_uri": "https://json.link/",
+          "gender": "Female",
+          "total_bill": "2233",
+          "billing_detail": [
+            {
+              "amount": "2233",
+              "billing_details": "X-ray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dasdsfwe223",
+      "billing_service": "Misc Service",
+      "billing_queue": [
+        {
+          "patient_uuid": "M10391GAM",
+          "patient_name": "Josiah Bett",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "2",
+          "billing_detail": [
+            {
+              "amount": "2",
+              "billing_details": "Lab test"
+            }
+          ]
+        },
+        {
+          "patient_uuid": "M10391GC9",
+          "patient_name": "Victor Wangari",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "1",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dasdasfwe2we23",
+      "billing_service": "IPD Queue",
+      "billing_queue": [
+        {
+          "patient_uuid": "M10391GC7",
+          "patient_name": "Makifuli Pombe",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "1",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial"
+            }
+          ]
+        },
+        {
+          "patient_uuid": "M10391GCA",
+          "patient_name": "Marehemu Maghufuli",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "10000",
+          "billing_detail": [
+            {
+              "amount": "10000",
+              "billing_details": "Covid-19 Test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dasdsfwexc2we23",
+      "billing_service": "OPD Queue",
+      "billing_queue": [
+        {
+          "patient_uuid": "M10391GC7",
+          "patient_name": "Makifuli Pombe",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "1",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dasdasdazs2we23",
+      "billing_service": "Pharmacy",
+      "billing_queue": [
+        {
+          "patient_uuid": "M10391GC6",
+          "patient_name": "Karanja Susan",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "2",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial Drugs"
+            }
+          ]
+        },
+        {
+          "patient_uuid": "M10391GCX",
+          "patient_name": "Willian Bett",
+          "user_uri": "https://json.link/",
+          "gender": "male",
+          "total_bill": "2",
+          "billing_detail": [
+            {
+              "amount": "1",
+              "billing_details": "Malarial Tablet"
+            },
+            {
+              "amount": "1",
+              "billing_details": "Malarial Syrup"
+            },
+            {
+              "amount": "1",
+              "billing_details": "TB Syrup"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

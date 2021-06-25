@@ -1,0 +1,6 @@
+package com.openmrsbilling.billingapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
